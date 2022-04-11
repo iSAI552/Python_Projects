@@ -1,2 +1,3 @@
-# pythonGames
-This Repository contains simple games which are build using python. These games are build using various GUI python libraries like turtle, trinket, etc.
+# Python_Projects
+This Repository contains Projects which are build using python.
+It contains projects using different kinds of libraries and different programming techniques.
